@@ -41,7 +41,7 @@ You'll need to set up your `.env` files for both the frontend and backend.
 Create a `.env` file in the root directory and add your API keys.
 ```env
 # Example
-GEMINI_API_KEY=your_api_key_here
+GROQ_API_KEY=your_api_key_here
 ```
 
 **Frontend `.env`:**
