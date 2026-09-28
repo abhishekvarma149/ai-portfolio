@@ -1,0 +1,63 @@
+ABHISHEK VARMA
+Programming Languages:
+Frontend :
+Backend :
+Generative AI & LLM:
+Tools & Platforms:
++918714598487 abhishekvarma2661@gmail.com LinkedIn GitHub LeetCode
+Java, Python, JavaScript, TypeScript
+React.js, Tailwind CSS, Next.js, Vite
+Node.js, Express.js, Fast API, REST APIs
+RAG Pipelines, LangChain, LangGraph, LLMs, Vector Database, LLM Integration
+Git, GitHub, Docker, Postman, VS Code
+Kochi, India
+2024 - 2028
+CGPA : 8.09/10
+Computer Science and Engineering (Artificial Intelligence) student with a strong foundation in data structures, algorithms,
+full-stack development, and AI engineering. Hands-on experience building AI-powered applications using LLMs, RAG,
+agentic workflows, vector databases, and modern web technologies. Experienced with Java, TypeScript, JavaScript, Python,
+React, Node.js, FastAPI, PostgreSQL, MongoDB, Redis, LangChain, and LangGraph. Currently focused on building practical AI
+and software engineering projects.
+EDUCATIONS
+2026 - Present
+Building a multi-agent AI platform using MERN stack and a scalable microservices architecture.
+Developed separate API Gateway, authentication, chat, and agent services using Node.js and Express.js.
+Implemented JWT authentication, authentication middleware, Redis-based session management, and current-user APIs.
+Built AI workflows using LangChain and LangGraph, including agent APIs, tool calling, and multi-step workflows.
+Integrated RAG, Qdrant vector search, embeddings, and Redis-based AI memory for context-aware AI interactions.
+Developed the frontend using React and Redux Toolkit, including authentication, chat interface, sidebar, and chat-area
+components.
+Technologies / Tools Used:MERN Stack, LangChain, LangGraph, Qdrant, Redis, Docker
+CommercePilot – AI-Driven Agentic Commerce Platform| Github 2026 - Present
+Engineered an autonomous AI buyer agent that parses natural language queries, evaluates product specifications against user
+budget constraints, and proposes structured checkout carts.
+Architected a RAG-based search engine using PostgreSQL pgvector, replacing rigid keyword matching with 1536-
+dimensional semantic vector retrieval for merchant catalogs.
+Developed a secure transactional backend using Node.js, Express, and TypeScript to manage merchant onboarding, ACID compliant inventory updates, and order lifecycles.
+Implemented enterprise-grade AI safety guardrails, capturing 100% of LLM tool-calling logic, retrieved context, and product
+reasoning into an immutable database audit trail.
+Integrated OpenAI/Gemini function calling with a gated Razorpay checkout flow, ensuring that all AI-initiated financial
+transactions require explicit user approval and handle failures gracefully.
+Containerized the end-to-end application stack—including the API server, pgvector database, and Redis cache—using Docker
+Compose for reliable state management and seamless local deployment.
+Technologies / Tools Used:Node.js, TypeScript, Express.js, PostgreSQL, pgvector, Redis, React, Vite, Docker, OpenAI/Gemini,
+LangGraph, Razorpay API
+PageIntel | AI Web Assistant Chrome Extension| Github 2026 - Present
+Developed a Chrome extension and FastAPI backend enabling users to chat with the content of any webpage using 10
+different LLMs (GPT-4o, Claude, DeepSeek).
+Built a RAG pipeline with Qdrant vector database and LangChain to chunk and embed page content for context-aware
+answers.
+Implemented an automatic fallback to DuckDuckGo web search for missing information and built a side-by-side model
+comparison mode.
+Designed persistent, domain-specific memory using Redis to store and recall chat history dynamically based on the active
+URL.
+Technologies / Tools Used:Python, FastAPI, Qdrant, Redis, JavaScript
+SKILLS
+PROFESSIONAL SUMMARY
+Muthoot Institute of Technology and Science|Kochi, India
+Bachelor of Technology in Computer Engineering
+PROJECTS
+NexoraAI—Multi-AgentAIPlatform | Github
+PROBLEM SOLVING
+Problem Solving: Solved 200+ Data Structures & Algorithms problems on LeetCode, covering arrays, hashing, trees,
+graphs, recursion, binary search, and dynamic programming

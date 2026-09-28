@@ -1,0 +1,54 @@
+{
+  "name": "Abhishek Varma",
+  "title": "Software Developer & AI Engineer",
+  "summary": "Computer Science and Engineering (Artificial Intelligence) student with a strong foundation in data structures, algorithms, full-stack development, and AI engineering.",
+  "contact": {
+    "phone": "+918714598487",
+    "email": "abhishekvarma2661@gmail.com",
+    "location": "Kochi, India",
+    "linkedin": "https://www.linkedin.com/in/abhishek-varma261/",
+    "github": "https://github.com/abhishekvarma149",
+    "leetcode": "https://leetcode.com/u/Abhishek261/"
+  },
+  "education": {
+    "degree": "Bachelor of Technology",
+    "branch": "Computer Engineering",
+    "college": "Muthoot Institute of Technology and Science, Kochi, India",
+    "cgpa": "8.09/10",
+    "duration": "2024 - 2028"
+  },
+  "experience": [],
+  "skills": {
+    "programming_languages": ["Java", "Python", "JavaScript", "TypeScript"],
+    "frontend": ["React.js", "Tailwind CSS", "Next.js", "Vite"],
+    "backend": ["Node.js", "Express.js", "FastAPI", "REST APIs"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis", "Qdrant", "pgvector"],
+    "ai_ml": ["RAG Pipelines", "LangChain", "LangGraph", "LLMs", "Vector Database", "LLM Integration"],
+    "tools": ["Git", "GitHub", "Docker", "Postman", "VS Code"]
+  },
+  "projects": [
+    {
+      "name": "NexoraAI—Multi-AgentAIPlatform",
+      "description": "Multi-agent AI platform using MERN stack and a scalable microservices architecture.",
+      "technologies": ["MERN Stack", "LangChain", "LangGraph", "Qdrant", "Redis", "Docker"]
+    },
+    {
+      "name": "CommercePilot – AI-Driven Agentic Commerce Platform",
+      "description": "Autonomous AI buyer agent with RAG-based search engine using PostgreSQL pgvector.",
+      "technologies": ["Node.js", "TypeScript", "Express.js", "PostgreSQL", "pgvector", "Redis", "React", "Vite", "Docker", "OpenAI/Gemini", "LangGraph", "Razorpay API"]
+    },
+    {
+      "name": "PageIntel | AI Web Assistant Chrome Extension",
+      "description": "Chrome extension and FastAPI backend enabling users to chat with the content of any webpage.",
+      "technologies": ["Python", "FastAPI", "Qdrant", "Redis", "JavaScript"]
+    }
+  ],
+  "achievements": [
+    "Solved 200+ Data Structures & Algorithms problems on LeetCode"
+  ],
+  "profiles": {
+    "github": "https://github.com/abhishekvarma149",
+    "linkedin": "https://www.linkedin.com/in/abhishek-varma261/",
+    "leetcode": "https://leetcode.com/u/Abhishek261/"
+  }
+}

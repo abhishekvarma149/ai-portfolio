@@ -1,0 +1,28 @@
+My name is Abhishek Varma.
+
+I am a Software Developer & AI Engineer specializing in Full Stack Development and AI-powered applications.
+
+I am a Bachelor of Technology in Computer Engineering student at Muthoot Institute of Technology and Science, Kochi, India with a CGPA of 8.09/10.
+
+My programming languages are Java, Python, JavaScript, and TypeScript.
+
+I have experience with React.js, Tailwind CSS, Next.js, Vite, Node.js, Express.js, and FastAPI.
+
+I am familiar with RAG Pipelines, LangChain, LangGraph, LLMs, Vector Databases, and LLM Integration.
+
+I have worked with PostgreSQL, MongoDB, Redis, Qdrant, pgvector, Git, GitHub, Docker, Postman, and VS Code.
+
+My major projects are:
+
+1. NexoraAI—Multi-AgentAIPlatform - Multi-agent AI platform using MERN stack and a scalable microservices architecture.
+
+2. CommercePilot – AI-Driven Agentic Commerce Platform - Autonomous AI buyer agent with RAG-based search engine using PostgreSQL pgvector.
+
+3. PageIntel | AI Web Assistant Chrome Extension - Chrome extension and FastAPI backend enabling users to chat with the content of any webpage.
+
+My achievements are:
+
+- Solved 200+ Data Structures & Algorithms problems on LeetCode.
+
+My email is:
+abhishekvarma2661@gmail.com
