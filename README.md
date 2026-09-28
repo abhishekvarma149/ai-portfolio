@@ -87,13 +87,5 @@ ai-portfolio/
     │   └── components/    # Reusable UI elements (ProjectCards, etc.)
     └── public/
 ```
-
-## 👨‍💻 About Me
-
-I am a Software Developer & AI Engineer passionate about building real-world AI-powered applications. 
-- **GitHub**: [@abhishekvarma149](https://github.com/abhishekvarma149)
-- **LinkedIn**: [Abhishek Varma](https://www.linkedin.com/in/abhishek-varma261/)
-- **LeetCode**: [@Abhishek261](https://leetcode.com/u/Abhishek261/)
-
 ---
 *Feel free to star ⭐ this repository if you find it helpful!*
